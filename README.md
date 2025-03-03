@@ -1,2 +1,4 @@
 # Property-Manager
-Developed a MySQL database to efficiently manage property owners, tenants, maintenance records, and agents. Implemented advanced SQL queries, including JOINs and aggregate functions, to track leases, monitor maintenance requests, and calculate agent commissions, ensuring streamlined property management.
+This project is a comprehensive MySQL database system designed to streamline property management operations. It efficiently tracks property owners, tenants, maintenance requests, and real estate agents, while also managing property listings, lease agreements, and agent commissions.
+
+The system includes advanced SQL queries, such as JOINs and aggregate functions, to enable efficient data retrieval for lease tracking, maintenance request status updates, and commission calculations.
